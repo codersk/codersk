@@ -26,6 +26,19 @@ Hi there! I'm a software engineer with experience in building scalable and relia
 [![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](#)
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](#)
 
+
+<!-- <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,go,python,nodejs,ruby,php,django&theme=light" /><br>
+    <img src="https://skillicons.dev/icons?i=js,typescript,angular,react,rails" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,graphql,neo4j," /><br>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,kafka,rabbitmq,bash," /><br>
+    <img src="https://skillicons.dev/icons?i=html5,html,css,sass,bootstrap,codepen," /><br>
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,vim,postman,vscode,linux" /><br>
+    
+  </a>
+</p> -->
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codersk&show_icons=true&count_private=true&theme=onedark&cache_seconds=86400)  
 
 

@@ -39,7 +39,7 @@ Hi there! I'm a software engineer with experience in building scalable and relia
   </a>
 </p> -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=codersk&show_icons=true&count_private=true&theme=onedark&cache_seconds=86400)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codersk&show_icons=true&count_private=true&theme=onedark&cache_seconds=86400)   -->
 
 
 
